@@ -1,0 +1,89 @@
+
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+}
+
+h1, h2 {
+	font-family: 'Georgia', Times, Times New Roamn, Serif;
+	font-size: 35px;
+}
+
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+	width: 960px;
+	margin: 0px auto;
+}
+
+.topbar {
+	display: inline-block;
+	background-color: #ffffff;
+	border-bottom: 1px solid grey;
+	width: 960px;
+}
+
+#links {
+	float: right;
+	position: relative;
+	top: 30px;
+
+}
+
+.name {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding: 10px;
+	width: 160px;
+	height: 100px;
+	right: -100px;
+	float: left;
+	position: relative;
+	text-align: center;
+
+}
+
+
+.middle {
+	width: 910px;
+	height: 500px;
+	padding: 50px;
+	background-image: url("./assets/images/concrete.png");
+}
+
+.img {
+	float: left;
+
+}
+
+.headline {
+	border-bottom: 1px solid grey;
+}
+
+
+.aboutme {
+	background-color: #ffffff;
+	width: 650px;
+}
+
+.morelinks {
+	width: 270px;
+	float: right;
+	background-color: #ffffff;
+	position: relative;
+	top: -410px;
+	right: -30px;
+}
+
+
+footer {
+	padding: 20px;
+	background-color: #666666;
+	width: 940px;
+	text-align: center;
+}
