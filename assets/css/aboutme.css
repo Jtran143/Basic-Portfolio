@@ -56,11 +56,6 @@ body {
 	background-image: url("./assets/images/concrete.png");
 }
 
-.img {
-	float: left;
-
-}
-
 .headline {
 	border-bottom: 1px solid grey;
 }
